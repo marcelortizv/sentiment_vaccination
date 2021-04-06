@@ -274,7 +274,7 @@ if __name__ == '__main__':
 
     processes = []
 
-    output_file = open(path_output_file, 'w')
+    output_file = open(path_output_file, 'w', encoding='utf-8')
     output_file.write(first_line + '\n')
 
     writing_process = Thread(target=write_results, args=[posts_queue, output_file, results, processing])
