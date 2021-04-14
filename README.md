@@ -1,3 +1,3 @@
-# sentiment_vaccination
+# Sentiment on Covid Vaccination
 This repository holds the code and materials from paper "Public Opinion Sentiment and COVID-19 vaccination on Social Media" 
 
