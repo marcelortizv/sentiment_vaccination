@@ -1,0 +1,1 @@
+url,id,created_at,text,source,author_name,author_screen_name,author_location,author_description,author_followers,author_followings,coordinates,in_reply_to_status_id,in_reply_to_user_id,in_reply_to_screen_name,type,user_retweeted,user_quoted,user_replied,content_quoted,retweet_count,favorite_count,lang,photo_uploaded,video_uploaded,youtube_video,shared_link,mentions,hashtags
