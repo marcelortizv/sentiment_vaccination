@@ -1,0 +1,8 @@
+https://www.theverge.com/2021/3/1/22307919/twitter-covid-19-vaccine-labels-five-strike-system
+
+https://help.twitter.com/en/rules-and-policies/medical-misinformation-policy
+
+https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets/discussion/226763
+
+https://www.kaggle.com/twhelan/covid-19-vaccine-sentiment-analysis-with-fastai
+
